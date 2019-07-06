@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'andrewcjones.dev',
+  url: 'https://andrewcjones.dev',
   pathPrefix: '/',
   title: 'React Portfolio by Andrew Jones',
   subtitle: 'Startup Cofounder & CTO. Javascript + React. Former neuroscience researcher at Emory University.',
