@@ -1,7 +1,7 @@
 ---
 template: page
 title: About me
-slug: /pages/about
+slug: pages/about
 draft: false
 ---
 I am a scientist by training and Javascript developer by trade. Find me on [Linkedin](https://www.linkedin.com/in/andrew-jones-711998151/) or [GitHub](https://github.com/cornu-ammonis).
