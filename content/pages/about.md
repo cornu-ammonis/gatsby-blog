@@ -1,12 +1,11 @@
 ---
-title: "About me"
-template: "page"
+template: page
+title: About me
+slug: about
+draft: true
 ---
+I am a scientist by training and Javascript developer by trade. Find me on [Linkedin](https://www.linkedin.com/in/andrew-jones-711998151/) or [GitHub](https://github.com/cornu-ammonis).
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I am constantly learning on the job as I've been lucky enough to hire engineers more senior than myself. This blog will catalogue and reinforce some of those learnings, with a particular emphasis on React / CSS best practices and demos of React components I've built.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
-
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+![React Logo](/media/1280px-react-icon.svg.png)
